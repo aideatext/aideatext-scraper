@@ -1,0 +1,31 @@
+name: Scrape Funds
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # 6am UTC diario
+  workflow_dispatch:      # manual también
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
+    
+    - name: Install dependencies
+      run: pip install requests beautifulsoup4
+    
+    - name: Scrape funds
+      run: python scraper.py funds
+    
+    - name: Commit if changed
+      run: |
+        git config user.name "AIdeaText Bot"
+        git config user.email "actions@users.noreply.github.com"
+        git add data/funds.json
+        git diff --staged --quiet || git commit -m "funds update: $(date -u '+%Y-%m-%d %H:%M UTC')"
+        git push
