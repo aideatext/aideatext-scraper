@@ -1,530 +1,530 @@
 [
   {
     "title": "Skip to main content",
-    "url": "https://www.sbir.gov/opportunities#main-content",
+    "url": "https://www.sbir.gov#main-content",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643660"
+    "scraped_at": "2026-03-15T06:16:36.155302"
   },
   {
     "title": "Skip to main content",
-    "url": "https://www.sbir.gov/opportunities#main-content",
+    "url": "https://www.sbir.gov#main-content",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643688"
+    "scraped_at": "2026-03-15T06:16:36.155335"
   },
   {
     "title": "Contact\n        Us",
-    "url": "https://www.sbir.gov/opportunities/contact-us",
+    "url": "https://www.sbir.gov/contact-us",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643705"
+    "scraped_at": "2026-03-15T06:16:36.155354"
   },
   {
     "title": "External User Login",
     "url": "https://app.www.sbir.gov/app-landing/fetch-login-url?isExternal=true",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643721"
+    "scraped_at": "2026-03-15T06:16:36.155369"
   },
   {
     "title": "SBA Employee Login",
     "url": "https://app.www.sbir.gov/app-landing/fetch-login-url?isExternal=false",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643728"
+    "scraped_at": "2026-03-15T06:16:36.155377"
   },
   {
     "title": "Find Local Assistance",
-    "url": "https://www.sbir.gov/opportunities/lab2market",
+    "url": "https://www.sbir.gov/lab2market",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643740"
+    "scraped_at": "2026-03-15T06:16:36.155391"
   },
   {
     "title": "Participating Agencies",
-    "url": "https://www.sbir.gov/opportunities/participating-agencies",
+    "url": "https://www.sbir.gov/participating-agencies",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643748"
+    "scraped_at": "2026-03-15T06:16:36.155399"
   },
   {
     "title": "Policy Directives",
-    "url": "https://www.sbir.gov/opportunities/about/policies",
+    "url": "https://www.sbir.gov/about/policies",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643757"
+    "scraped_at": "2026-03-15T06:16:36.155409"
   },
   {
     "title": "Economic and Annual Reports",
-    "url": "https://www.sbir.gov/opportunities/impact/impact-reports",
+    "url": "https://www.sbir.gov/impact/impact-reports",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643769"
+    "scraped_at": "2026-03-15T06:16:36.155421"
   },
   {
     "title": "Success Stories",
-    "url": "https://www.sbir.gov/opportunities/success-stories",
+    "url": "https://www.sbir.gov/success-stories",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643782"
+    "scraped_at": "2026-03-15T06:16:36.155430"
   },
   {
     "title": "Annual Report Archive",
-    "url": "https://www.sbir.gov/opportunities/impact/impact-reports/archive",
+    "url": "https://www.sbir.gov/impact/impact-reports/archive",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643790"
+    "scraped_at": "2026-03-15T06:16:36.155439"
   },
   {
     "title": "Portfolio - Award Data",
-    "url": "https://www.sbir.gov/opportunities/awards",
+    "url": "https://www.sbir.gov/awards",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643798"
+    "scraped_at": "2026-03-15T06:16:36.155448"
   },
   {
     "title": "Portfolio - Company Data",
-    "url": "https://www.sbir.gov/opportunities/portfolio",
+    "url": "https://www.sbir.gov/portfolio",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643807"
+    "scraped_at": "2026-03-15T06:16:36.155457"
   },
   {
     "title": "API Documentation",
-    "url": "https://www.sbir.gov/opportunities/api",
+    "url": "https://www.sbir.gov/api",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643816"
+    "scraped_at": "2026-03-15T06:16:36.155466"
   },
   {
     "title": "Data Resources",
-    "url": "https://www.sbir.gov/opportunities/data-resources",
+    "url": "https://www.sbir.gov/data-resources",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643823"
+    "scraped_at": "2026-03-15T06:16:36.155473"
   },
   {
     "title": "Data Dictionary",
-    "url": "https://www.sbir.gov/opportunities/data-resources/data-dictionary",
+    "url": "https://www.sbir.gov/data-resources/data-dictionary",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643831"
+    "scraped_at": "2026-03-15T06:16:36.155481"
   },
   {
     "title": "Find Topics and Solicitations",
-    "url": "https://www.sbir.gov/opportunities/topics",
+    "url": "https://www.sbir.gov/topics",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643844"
+    "scraped_at": "2026-03-15T06:16:36.155493"
   },
   {
     "title": "Frequently Asked Questions (FAQ)",
-    "url": "https://www.sbir.gov/opportunities/faq",
+    "url": "https://www.sbir.gov/faq",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643852"
+    "scraped_at": "2026-03-15T06:16:36.155502"
   },
   {
     "title": "Lab to Market Hub",
-    "url": "https://www.sbir.gov/opportunities/lab2market",
+    "url": "https://www.sbir.gov/lab2market",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643860"
+    "scraped_at": "2026-03-15T06:16:36.155511"
   },
   {
     "title": "Program Tutorials",
-    "url": "https://www.sbir.gov/opportunities/tutorials",
+    "url": "https://www.sbir.gov/tutorials",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643869"
+    "scraped_at": "2026-03-15T06:16:36.155519"
   },
   {
     "title": "Event Spotlight",
-    "url": "https://www.sbir.gov/opportunities/community#event-spotlight",
+    "url": "https://www.sbir.gov/community#event-spotlight",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643881"
+    "scraped_at": "2026-03-15T06:16:36.155532"
   },
   {
     "title": "News and Events",
-    "url": "https://www.sbir.gov/opportunities/events-listing",
+    "url": "https://www.sbir.gov/events-listing",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643889"
+    "scraped_at": "2026-03-15T06:16:36.155540"
   },
   {
     "title": "Newsletter Sign-up",
     "url": "https://share.hsforms.com/1x9GR73-zTrGq021OvemHVApv9kv",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643897"
+    "scraped_at": "2026-03-15T06:16:36.155548"
   },
   {
     "title": "Federal and State Technology (FAST)",
-    "url": "https://www.sbir.gov/opportunities/community/fast",
+    "url": "https://www.sbir.gov/community/fast",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643905"
+    "scraped_at": "2026-03-15T06:16:36.155556"
   },
   {
     "title": "Growth Accelerator Fund Competition (GAFC)",
-    "url": "https://www.sbir.gov/opportunities/community/gafc",
+    "url": "https://www.sbir.gov/community/gafc",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643913"
+    "scraped_at": "2026-03-15T06:16:36.155565"
   },
   {
     "title": "Return to Homepage",
-    "url": "https://www.sbir.gov/opportunities/",
+    "url": "https://www.sbir.gov/",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643920"
+    "scraped_at": "2026-03-15T06:16:36.155572"
   },
   {
     "title": "Privacy Policy",
     "url": "https://www.sba.gov/page/privacy-act-system-records-notices-sorns",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643930"
+    "scraped_at": "2026-03-15T06:16:36.155583"
   },
   {
     "title": "Report Fraud, Waste & Abuse",
-    "url": "https://www.sbir.gov/opportunities/fraud-waste-abuse",
+    "url": "https://www.sbir.gov/fraud-waste-abuse",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643938"
+    "scraped_at": "2026-03-15T06:16:36.155591"
   },
   {
     "title": "Open Government",
     "url": "https://www.sba.gov/about-sba/open-government",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643944"
+    "scraped_at": "2026-03-15T06:16:36.155598"
   },
   {
     "title": "SBA Inspector General",
     "url": "https://www.sba.gov/about-sba/oversight-advocacy/office-inspector-general",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643954"
+    "scraped_at": "2026-03-15T06:16:36.155607"
   },
   {
     "title": "SBA Connect Accessibility",
     "url": "https://connect.sba.gov/Home/Accessibility",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643960"
+    "scraped_at": "2026-03-15T06:16:36.155613"
   },
   {
     "title": "Subscribe to our Newsletter →",
     "url": "https://share.hsforms.com/1x9GR73-zTrGq021OvemHVApv9kv",
     "source": "https://www.sbir.gov/opportunities",
-    "scraped_at": "2026-03-14T11:41:25.643978"
-  },
-  {
-    "title": "Search Site Content",
-    "url": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc/site-search-results",
-    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
-    "scraped_at": "2026-03-14T11:41:25.905902"
-  },
-  {
-    "title": "Search Tips",
-    "url": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc/search-tips",
-    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
-    "scraped_at": "2026-03-14T11:41:25.905918"
-  },
-  {
-    "title": "Export Detailed Data",
-    "url": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc#",
-    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
-    "scraped_at": "2026-03-14T11:41:25.905924"
-  },
-  {
-    "title": "Return to top",
-    "url": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc#",
-    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
-    "scraped_at": "2026-03-14T11:41:25.905928"
-  },
-  {
-    "title": "XML Extract",
-    "url": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc/xml-extract",
-    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
-    "scraped_at": "2026-03-14T11:41:25.905940"
-  },
-  {
-    "title": "Get Adobe Reader",
-    "url": "http://get.adobe.com/reader/otherversions/",
-    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
-    "scraped_at": "2026-03-14T11:41:25.905944"
-  },
-  {
-    "title": "EEOC / No Fear Act",
-    "url": "https://www.eeoc.gov/",
-    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
-    "scraped_at": "2026-03-14T11:41:25.905949"
-  },
-  {
-    "title": "Accessibility",
-    "url": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc/accessibility-compliance",
-    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
-    "scraped_at": "2026-03-14T11:41:25.905953"
-  },
-  {
-    "title": "Vulnerability Disclosure Policy",
-    "url": "https://www.hhs.gov/vulnerability-disclosure-policy/index.html",
-    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
-    "scraped_at": "2026-03-14T11:41:25.905958"
-  },
-  {
-    "title": "Disclaimers",
-    "url": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc/exit-disclaimer",
-    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
-    "scraped_at": "2026-03-14T11:41:25.905962"
-  },
-  {
-    "title": "WhiteHouse.gov",
-    "url": "http://www.whitehouse.gov/",
-    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
-    "scraped_at": "2026-03-14T11:41:25.905968"
-  },
-  {
-    "title": "USAspending.gov",
-    "url": "http://www.usaspending.gov/",
-    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
-    "scraped_at": "2026-03-14T11:41:25.905972"
-  },
-  {
-    "title": "Report Fraud",
-    "url": "http://www.ignet.gov/node/207",
-    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
-    "scraped_at": "2026-03-14T11:41:25.905978"
-  },
-  {
-    "title": "Chat now with Grant",
-    "url": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc#",
-    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
-    "scraped_at": "2026-03-14T11:41:25.905982"
-  },
-  {
-    "title": "Frequently Asked Questions",
-    "url": "https://grants-portal.psc.gov/",
-    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
-    "scraped_at": "2026-03-14T11:41:25.905986"
-  },
-  {
-    "title": "Open default modal",
-    "url": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc#gg-timeout-modal",
-    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
-    "scraped_at": "2026-03-14T11:41:25.905994"
+    "scraped_at": "2026-03-15T06:16:36.155632"
   },
   {
     "title": "Skip to main content",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en#main-content",
+    "url": "https://eic.ec.europa.eu#main-content",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048441"
+    "scraped_at": "2026-03-15T06:16:36.807811"
   },
   {
     "title": "Get funding",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/eic-funding-opportunities_en",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048461"
+    "scraped_at": "2026-03-15T06:16:36.807832"
   },
   {
     "title": "EIC Pathfinder",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/eic-funding-opportunities/eic-pathfinder_en",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048466"
+    "scraped_at": "2026-03-15T06:16:36.807837"
   },
   {
     "title": "EIC Transition",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/eic-funding-opportunities/eic-transition_en",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-transition_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048470"
+    "scraped_at": "2026-03-15T06:16:36.807841"
   },
   {
     "title": "EIC Accelerator",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/eic-funding-opportunities/eic-accelerator_en",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048474"
+    "scraped_at": "2026-03-15T06:16:36.807845"
   },
   {
     "title": "STEP Scale Up",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/eic-funding-opportunities/step-scale_en",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/step-scale_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048477"
+    "scraped_at": "2026-03-15T06:16:36.807849"
   },
   {
     "title": "EIC Pre-Accelerator",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/eic-funding-opportunities/eic-pre-accelerator_en",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-pre-accelerator_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048481"
+    "scraped_at": "2026-03-15T06:16:36.807853"
   },
   {
     "title": "Advanced Innovation Challenges- Pilot",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/eic-funding-opportunities/advanced-innovation-challenges-pilot_en",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/advanced-innovation-challenges-pilot_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048484"
+    "scraped_at": "2026-03-15T06:16:36.807857"
   },
   {
     "title": "About the EIC Fund",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/eic-fund/about-eic-fund_en",
+    "url": "https://eic.ec.europa.eu/eic-fund/about-eic-fund_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048491"
+    "scraped_at": "2026-03-15T06:16:36.807866"
   },
   {
     "title": "Co-investing with the EIC Fund",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/eic-fund/co-investing-eic-fund_en",
+    "url": "https://eic.ec.europa.eu/eic-fund/co-investing-eic-fund_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048495"
+    "scraped_at": "2026-03-15T06:16:36.807870"
   },
   {
     "title": "EIC Fund companies portfolio",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/eic-fund/eic-fund-companies-portfolio_en",
+    "url": "https://eic.ec.europa.eu/eic-fund/eic-fund-companies-portfolio_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048499"
+    "scraped_at": "2026-03-15T06:16:36.807874"
   },
   {
     "title": "EIC Fund Investment Guidelines & Approach",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/eic-fund/eic-fund-investment-guidelines-approach_en",
+    "url": "https://eic.ec.europa.eu/eic-fund/eic-fund-investment-guidelines-approach_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048503"
+    "scraped_at": "2026-03-15T06:16:36.807878"
   },
   {
     "title": "Trusted Investor Network",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/eic-fund/trusted-investor-network_en",
+    "url": "https://eic.ec.europa.eu/eic-fund/trusted-investor-network_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048506"
+    "scraped_at": "2026-03-15T06:16:36.807882"
   },
   {
     "title": "EIC Fund Board",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/eic-fund/eic-fund-board_en",
+    "url": "https://eic.ec.europa.eu/eic-fund/eic-fund-board_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048510"
+    "scraped_at": "2026-03-15T06:16:36.807886"
   },
   {
     "title": "Advisory Committee Members",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/eic-fund/advisory-committee-members_en",
+    "url": "https://eic.ec.europa.eu/eic-fund/advisory-committee-members_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048513"
+    "scraped_at": "2026-03-15T06:16:36.807890"
   },
   {
     "title": "Company Board Representatives",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/eic-fund/company-board-representatives_en",
+    "url": "https://eic.ec.europa.eu/eic-fund/company-board-representatives_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048522"
+    "scraped_at": "2026-03-15T06:16:36.807893"
   },
   {
     "title": "Scaleup Europe Fund",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/eic-fund/scaleup-europe-fund_en",
+    "url": "https://eic.ec.europa.eu/eic-fund/scaleup-europe-fund_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048526"
+    "scraped_at": "2026-03-15T06:16:36.807897"
   },
   {
     "title": "European Prize for Women Innovators powered by EIC & EIT",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/eic-prizes/european-prize-women-innovators-powered-eic-eit_en",
+    "url": "https://eic.ec.europa.eu/eic-prizes/european-prize-women-innovators-powered-eic-eit_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048533"
+    "scraped_at": "2026-03-15T06:16:36.807905"
   },
   {
     "title": "The European Capital of Innovation Awards",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/eic-prizes/european-capital-innovation-awards_en",
+    "url": "https://eic.ec.europa.eu/eic-prizes/european-capital-innovation-awards_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048536"
+    "scraped_at": "2026-03-15T06:16:36.807910"
   },
   {
     "title": "Previous EIC Prizes",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/eic-prizes/previous-eic-prizes_en",
+    "url": "https://eic.ec.europa.eu/eic-prizes/previous-eic-prizes_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048540"
+    "scraped_at": "2026-03-15T06:16:36.807918"
   },
   {
     "title": "EIC Impacts Stories",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/impact/eic-impacts-stories_en",
+    "url": "https://eic.ec.europa.eu/impact/eic-impacts-stories_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048547"
+    "scraped_at": "2026-03-15T06:16:36.807925"
   },
   {
     "title": "EIC Data Hub",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/impact/eic-data-hub_en",
+    "url": "https://eic.ec.europa.eu/impact/eic-data-hub_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048551"
+    "scraped_at": "2026-03-15T06:16:36.807929"
   },
   {
     "title": "EIC portfolios",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/impact/eic-portfolios_en",
+    "url": "https://eic.ec.europa.eu/impact/eic-portfolios_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048554"
+    "scraped_at": "2026-03-15T06:16:36.807936"
   },
   {
     "title": "EIC Programme Managers",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/impact/eic-programme-managers_en",
+    "url": "https://eic.ec.europa.eu/impact/eic-programme-managers_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048558"
+    "scraped_at": "2026-03-15T06:16:36.807940"
   },
   {
     "title": "EIC Ambassadors",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/impact/eic-ambassadors_en",
+    "url": "https://eic.ec.europa.eu/impact/eic-ambassadors_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048561"
+    "scraped_at": "2026-03-15T06:16:36.807943"
   },
   {
     "title": "EIC Accelerator 2026",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/eic-funding-opportunities/calls-proposals/eic-accelerator-2026_en",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/calls-proposals/eic-accelerator-2026_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048593"
+    "scraped_at": "2026-03-15T06:16:36.807963"
   },
   {
     "title": "EIC STEP Scale Up",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/eic-funding-opportunities/calls-proposals/eic-step-scale_en",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/calls-proposals/eic-step-scale_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048597"
+    "scraped_at": "2026-03-15T06:16:36.807968"
   },
   {
     "title": "EIC Work Programme 2026",
     "url": "https://eic.ec.europa.eu/eic-2026-work-programme_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048600"
+    "scraped_at": "2026-03-15T06:16:36.807971"
   },
   {
     "title": "Online info day recording",
     "url": "https://eic.ec.europa.eu/events/online-info-day-eic-work-programme-2026-2025-11-13_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048604"
+    "scraped_at": "2026-03-15T06:16:36.807975"
   },
   {
     "title": "Frequently Asked Questions",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/eic-frequently-asked-questions_en",
+    "url": "https://eic.ec.europa.eu/eic-frequently-asked-questions_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048608"
+    "scraped_at": "2026-03-15T06:16:36.807979"
   },
   {
     "title": "European Innovation Council",
     "url": "https://eic.ec.europa.eu/index_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048612"
+    "scraped_at": "2026-03-15T06:16:36.807983"
   },
   {
     "title": "Report fraud",
     "url": "https://ec.europa.eu/anti-fraud/olaf-and-you/report-fraud_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048615"
+    "scraped_at": "2026-03-15T06:16:36.807986"
   },
   {
     "title": "European Innovation Council and Small and Medium-sized Enterprises Executive Agency (EISMEA)",
     "url": "https://eismea.ec.europa.eu/",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048619"
+    "scraped_at": "2026-03-15T06:16:36.807990"
   },
   {
     "title": "Data protection notice",
     "url": "https://eismea.ec.europa.eu/eismea-data-protection-notice_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048622"
+    "scraped_at": "2026-03-15T06:16:36.807994"
   },
   {
     "title": "Data protection notice - EIC Accelerator",
     "url": "https://eic.ec.europa.eu/document/download/1da4f37a-2eb2-4571-9342-0ea978b3dfd3_en?filename=DPN_EIC_Accelerator_02_2022.pdf",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048626"
+    "scraped_at": "2026-03-15T06:16:36.808013"
   },
   {
     "title": "Report an IT vulnerability",
     "url": "https://commission.europa.eu/legal-notice/vulnerability-disclosure-policy_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048641"
+    "scraped_at": "2026-03-15T06:16:36.808029"
   },
   {
     "title": "Languages on our websites",
     "url": "https://commission.europa.eu/languages-our-websites_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048645"
+    "scraped_at": "2026-03-15T06:16:36.808033"
   },
   {
     "title": "Privacy policy",
     "url": "https://commission.europa.eu/privacy-policy-websites-managed-european-commission_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048650"
+    "scraped_at": "2026-03-15T06:16:36.808041"
   },
   {
     "title": "Legal notice",
     "url": "https://commission.europa.eu/legal-notice_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048654"
+    "scraped_at": "2026-03-15T06:16:36.808045"
   },
   {
     "title": "Accessibility",
-    "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en/accessibility-statement_en",
+    "url": "https://eic.ec.europa.eu/accessibility-statement_en",
     "source": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
-    "scraped_at": "2026-03-14T11:41:27.048657"
+    "scraped_at": "2026-03-15T06:16:36.808049"
+  },
+  {
+    "title": "Search Site Content",
+    "url": "https://www.grants.gov/site-search-results",
+    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
+    "scraped_at": "2026-03-15T06:16:37.004909"
+  },
+  {
+    "title": "Search Tips",
+    "url": "https://www.grants.gov/search-tips",
+    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
+    "scraped_at": "2026-03-15T06:16:37.004926"
+  },
+  {
+    "title": "Export Detailed Data",
+    "url": "https://www.grants.gov#",
+    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
+    "scraped_at": "2026-03-15T06:16:37.004932"
+  },
+  {
+    "title": "Return to top",
+    "url": "https://www.grants.gov#",
+    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
+    "scraped_at": "2026-03-15T06:16:37.004937"
+  },
+  {
+    "title": "XML Extract",
+    "url": "https://www.grants.gov/xml-extract",
+    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
+    "scraped_at": "2026-03-15T06:16:37.004949"
+  },
+  {
+    "title": "Get Adobe Reader",
+    "url": "http://get.adobe.com/reader/otherversions/",
+    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
+    "scraped_at": "2026-03-15T06:16:37.004952"
+  },
+  {
+    "title": "EEOC / No Fear Act",
+    "url": "https://www.eeoc.gov/",
+    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
+    "scraped_at": "2026-03-15T06:16:37.004957"
+  },
+  {
+    "title": "Accessibility",
+    "url": "https://www.grants.gov/accessibility-compliance",
+    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
+    "scraped_at": "2026-03-15T06:16:37.004961"
+  },
+  {
+    "title": "Vulnerability Disclosure Policy",
+    "url": "https://www.hhs.gov/vulnerability-disclosure-policy/index.html",
+    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
+    "scraped_at": "2026-03-15T06:16:37.004966"
+  },
+  {
+    "title": "Disclaimers",
+    "url": "https://www.grants.gov/exit-disclaimer",
+    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
+    "scraped_at": "2026-03-15T06:16:37.004970"
+  },
+  {
+    "title": "WhiteHouse.gov",
+    "url": "http://www.whitehouse.gov/",
+    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
+    "scraped_at": "2026-03-15T06:16:37.004976"
+  },
+  {
+    "title": "USAspending.gov",
+    "url": "http://www.usaspending.gov/",
+    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
+    "scraped_at": "2026-03-15T06:16:37.004980"
+  },
+  {
+    "title": "Report Fraud",
+    "url": "http://www.ignet.gov/node/207",
+    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
+    "scraped_at": "2026-03-15T06:16:37.004986"
+  },
+  {
+    "title": "Chat now with Grant",
+    "url": "https://www.grants.gov#",
+    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
+    "scraped_at": "2026-03-15T06:16:37.004990"
+  },
+  {
+    "title": "Frequently Asked Questions",
+    "url": "https://grants-portal.psc.gov/",
+    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
+    "scraped_at": "2026-03-15T06:16:37.004994"
+  },
+  {
+    "title": "Open default modal",
+    "url": "https://www.grants.gov#gg-timeout-modal",
+    "source": "https://www.grants.gov/search-grants?oppStatuses=forecasted%7Cposted&sortBy=openDate%7Cdesc",
+    "scraped_at": "2026-03-15T06:16:37.005003"
   }
 ]
